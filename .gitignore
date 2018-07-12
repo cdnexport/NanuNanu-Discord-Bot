@@ -1,0 +1,5 @@
+/ignorethese/
+/node_modules/
+/logs/
+config.json
+package-lock.json
